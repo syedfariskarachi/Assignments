@@ -3,7 +3,7 @@ let friend_name = "nabeel";
 let ask_name = await inquirer.prompt({
   message: "Enter your name:",
   name: "name",
-//   type:"string"
+  //   type:"string"
 });
 switch (ask_name.name) {
   case friend_name:

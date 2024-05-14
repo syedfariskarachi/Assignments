@@ -18,4 +18,4 @@ if (user_input.user_input_num === dynamic_num) {
   let result = `${user_input.user_input_num} is less then the Dynamic Number(${dynamic_num})`;
   console.log(result);
 }
-console.log(user_input)
+console.log(user_input);
